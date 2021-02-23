@@ -1,0 +1,12 @@
+[submodule "cli/gl-cli"]
+	path = cli/gl-cli
+	url = https://github.com/skalamark/gl-cli
+[submodule "cli/gl-core"]
+	path = cli/gl-core
+	url = https://github.com/skalamark/gl-core
+[submodule "cli/gl-runtime"]
+	path = cli/gl-runtime
+	url = https://github.com/skalamark/gl-runtime
+[submodule "cli/gl-std"]
+	path = cli/gl-std
+	url = https://github.com/skalamark/gl-std
