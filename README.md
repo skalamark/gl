@@ -1,7 +1,9 @@
-# gl
-Linguagem de script GLanguage
+# GLanguage
+Linguagem de script
 
-## Instalar `cli`
+### Instalar `cli`
+
+Build from source usando cargo:
 
 ```bash
 $ git submodule init
