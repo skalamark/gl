@@ -9,8 +9,6 @@ Build from source usando cargo:
 $ git submodule init
 $ git submodule update
 
-$ cd cli
-$ cd gl-cli
 $ cargo build --release
 ```
 
