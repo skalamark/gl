@@ -1,9 +1,9 @@
 # GLanguage
-Linguagem de script
+Language of script
 
-### Instalar `cli`
+### Install `cli`
 
-Build from source usando cargo:
+Build from source using cargo:
 
 ```bash
 $ git submodule init
@@ -31,3 +31,4 @@ $ gl eval "42"
 ```bash
 $ gl run script.gl
 ```
+
