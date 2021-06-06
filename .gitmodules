@@ -4,10 +4,12 @@
 [submodule "gl-core"]
 	path = gl-core
 	url = https://github.com/skalamark/gl-core
+[submodule "gl-fmt"]
+	path = gl-fmt
+	url = https://github.com/skalamark/gl-fmt
 [submodule "gl-runtime"]
 	path = gl-runtime
 	url = https://github.com/skalamark/gl-runtime
 [submodule "gl-std"]
 	path = gl-std
 	url = https://github.com/skalamark/gl-std
-

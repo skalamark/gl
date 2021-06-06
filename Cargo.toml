@@ -4,6 +4,7 @@
 members = [
 	"gl-cli",
 	"gl-core",
+	"gl-fmt",
 	"gl-runtime",
 	"gl-std",
 ]
