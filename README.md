@@ -33,6 +33,12 @@ $ gl eval "42"
 $ gl run script.gl
 ```
 
+`Fmt` (Format a script file)
+
+```bash
+$ gl fmt script.gl
+```
+
 ## Documentation
 
 - [Syntax overview](#syntax-overview)
