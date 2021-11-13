@@ -1,12 +1,11 @@
 # Copyright 2021 the GLanguage authors. All rights reserved. MIT license.
 
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
 [workspace]
 members = [
-	"gl-cli",
-	"gl-core",
-	"gl-fmt",
-	"gl-runtime",
-	"gl-std",
+    "gl-cli",
+    "gl-core",
 ]
 
 [profile.dev]
@@ -15,4 +14,3 @@ opt-level = 0
 [profile.release]
 opt-level = 3
 lto = true
-
